@@ -1,0 +1,11 @@
+For this simple Restful API 
+Application Management : Maven
+Configeration : SpringBoot and Data.
+Framework : Spring MVC
+DAO : Hibernate 
+DataBase : H2 
+Test : Junit
+Restful API :
+/upload  (HTTP.Post) Upload a file .
+/files  (HTTP.Get) Get all files' details in the database.
+/files/{id}  (HTTP.get) Get the file's metadata based on file id.
